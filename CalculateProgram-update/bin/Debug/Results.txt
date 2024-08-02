@@ -1,0 +1,8 @@
+No.	ID	Name	Last Month	This Month	Consumption	Price	Total Bill	
+1	PE83470823	John Human	10 m3	90 m3	80 m3	9955.00 đ/m3	877135.05 đ	
+1	PA9024952	William Andia	10 m3	34 m3	24 m3	5973.00 đ/m3	158344.23 đ	
+1	PA948203450	Agela Berri	789 m3	1232 m3	443 m3	22068.00 đ/m3	10756163.88 đ	
+1	PE5234172	Lucy Emily	12 m3	11 m3	-1 m3	7052.00 đ/m3	-6981.48 đ	
+1	32412	Billie Hamton	10 m3	3234 m3	3224 m3	9955.00 đ/m3	35305507.05 đ	
+1	PE823403493	Luci Amelie	10 m3	20 m3	10 m3	5973.00 đ/m3	66360.03 đ	Showbill	Delete	
+1	PA380247234	Hellen Buston	10 m3	24 m3	14 m3	9955.00 đ/m3	154402.05 đ	Showbill	Delete	

@@ -1,0 +1,6 @@
+No.	ID	Name	Last Month	This Month	Consumption	Price	Total Bill	
+1	PE2332324	John	10 m3	20 m3	10 m3	5973.00 đ/m3	66360.03 đ	
+1	PE535123687276	Johnson	10 m3	77 m3	67 m3	9955.00 đ/m3	734778.55 đ	
+1	PA43252679	John Andy	10 m3	33 m3	23 m3	5973.00 đ/m3	151773.93 đ	
+1	PE32732392	Chang	10 m3	20 m3	10 m3	5973.00 đ/m3	66360.03 đ	
+1	PE12345678901,...	chang	12 m3	33 m3	21 m3	5973.00 đ/m3	138633.33 đ	
